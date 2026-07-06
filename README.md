@@ -48,3 +48,9 @@ Este sistema puede aplicarse a:
 ## Estado
 
 Repositorio en construcción.
+## Contenido
+
+- [Plantilla de seguimiento](plantillas/plantilla-seguimiento.md)
+- [Tabla CSV de seguimiento](plantillas/tabla-seguimiento.csv)
+- [Estados y prioridades](docs/estados-y-prioridades.md)
+- [Flujo de trabajo](docs/flujo-de-trabajo.md)
